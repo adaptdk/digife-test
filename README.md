@@ -1,6 +1,6 @@
 ## Opgave info
 
-Der er 3X3 produkter, i de forskellige lister er der en defineret én produkt gruppe.
+Der er 3X3 produkter, i de forskellige lister er der defineret én produkt gruppe.
 
 Det er nu op til dig at vise hvad du kan!
 
